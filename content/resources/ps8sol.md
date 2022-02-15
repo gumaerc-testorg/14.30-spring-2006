@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions of the problem set for week 8.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-30-introduction-to-statistical-method-in-economics-spring-2006/2ffaeff1f9f5695b66bd72bfe0d4814f_ps8sol.pdf
+file: /media/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/2ffaeff1f9f5695b66bd72bfe0d4814f_ps8sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps8sol.pdf
 uid: 2ffaeff1-f9f5-695b-66bd-72bfe0d4814f

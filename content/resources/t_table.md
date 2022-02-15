@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-30-introduction-to-statistical-method-in-economics-spring-2006/bdbe9805a1722db51474900d77e16438_t_table.pdf
+file: /media/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/bdbe9805a1722db51474900d77e16438_t_table.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: t_table.pdf
 uid: bdbe9805-a172-2db5-1474-900d77e16438

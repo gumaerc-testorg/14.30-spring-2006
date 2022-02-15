@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains an overview about point estimation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-30-introduction-to-statistical-method-in-economics-spring-2006/df99a17c67172a8b23a0c459eec0b3fb_l8review.pdf
+file: /media/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/df99a17c67172a8b23a0c459eec0b3fb_l8review.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l8review.pdf
 uid: df99a17c-6717-2a8b-23a0-c459eec0b3fb

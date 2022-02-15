@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-30-introduction-to-statistical-method-in-economics-spring-2006/75e61b32d79aaa706d37eaf32f1b898b_ps1sol.pdf
+file: /media/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/75e61b32d79aaa706d37eaf32f1b898b_ps1sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: ps1sol.pdf
 uid: 75e61b32-d79a-aa70-6d37-eaf32f1b898b
