@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c8394d1a-1cb1-b74a-b4b9-8cb2c6f57ef7
 resourcetype: Document
 title: ex2sol_f04.pdf
 uid: 22649388-964d-9f85-4e53-89bd7037e8dd

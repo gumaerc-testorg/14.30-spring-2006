@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c8394d1a-1cb1-b74a-b4b9-8cb2c6f57ef7
 resourcetype: Document
 title: ps6sol.pdf
 uid: 451f48a0-32ca-78da-7268-34ee700c67c4

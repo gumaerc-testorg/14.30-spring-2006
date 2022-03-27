@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d3586eec-c059-1000-3174-83753f4fcfbb
 resourcetype: Document
 title: l10review.pdf
 uid: 61890ab3-8902-5dd4-bbcf-bafe50af664f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d3586eec-c059-1000-3174-83753f4fcfbb
 resourcetype: Document
 title: simulations.pdf
 uid: 68a2865a-1e86-bf15-ef8d-48651dbca36d

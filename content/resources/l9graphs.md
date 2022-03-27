@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d3586eec-c059-1000-3174-83753f4fcfbb
 resourcetype: Document
 title: l9graphs.pdf
 uid: d70cfa2f-f389-559f-e4b8-24babe132b8e
