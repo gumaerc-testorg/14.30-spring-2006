@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains lecture notes for all the topics of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Set and Probability Theory ([PDF]({{< baseurl >}}/resources/l1))  
+Set and Probability Theory ({{% resource_link 40c6e412-c5bd-ddd8-0605-8187cf175b29 "PDF" %}})  
   
 [Basics of Set Theory](http://www.cs.odu.edu/~toida/nerzic/content/set/basics.html)
 {{< tdclose >}}
@@ -36,7 +37,7 @@ Set and Probability Theory ([PDF]({{< baseurl >}}/resources/l1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Random Variables, Probability Mass/Density Function, and Cumulative Distribution Function (Univariate Model) ([PDF]({{< baseurl >}}/resources/l2))
+Random Variables, Probability Mass/Density Function, and Cumulative Distribution Function (Univariate Model) ({{% resource_link 4c1406e2-e3f0-a5c9-14e7-f7051411c2bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Random Variables, Probability Mass/Density Function, and Cumulative Distribution
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Multiple Random Variables, Bivariate Distribution, Marginal Distribution, Conditional Distribution, Independence, Multivariate Distribution (Multivariate Model) ([PDF]({{< baseurl >}}/resources/l3))
+Multiple Random Variables, Bivariate Distribution, Marginal Distribution, Conditional Distribution, Independence, Multivariate Distribution (Multivariate Model) ({{% resource_link a2860fd1-e011-15ef-9552-bb27c884d6a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Multiple Random Variables, Bivariate Distribution, Marginal Distribution, Condit
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Expectation (Moments) ([PDF]({{< baseurl >}}/resources/l4))
+Expectation (Moments) ({{% resource_link 3b591585-4e9f-9838-9f21-70692b24e7a1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ Review for Exam 1
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Random Variable and Random Vector Transformations (Univariate and Multivariate Models) ([PDF]({{< baseurl >}}/resources/l5))
+Random Variable and Random Vector Transformations (Univariate and Multivariate Models) ({{% resource_link 76532d28-5972-431d-e939-90dc2a0e5089 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,9 +82,9 @@ Random Variable and Random Vector Transformations (Univariate and Multivariate M
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Special Distributions (Discrete and Continuous) ([PDF]({{< baseurl >}}/resources/l6))  
+Special Distributions (Discrete and Continuous) ({{% resource_link 39d08749-5c59-0c5a-0665-c877c3c3be3e "PDF" %}})  
   
-Graph Representation: Special Distributions ([PDF]({{< baseurl >}}/resources/special_dist))
+Graph Representation: Special Distributions ({{% resource_link f4698ae1-bf1c-6c00-c4ea-91e09363147d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,9 +102,9 @@ Review for Exam 2
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Random Sample, Law of Large Numbers, Central Limit Theorem ([PDF]({{< baseurl >}}/resources/l7))  
+Random Sample, Law of Large Numbers, Central Limit Theorem ({{% resource_link 1620ba4c-321d-0fe5-94a7-0c5fba79a69a "PDF" %}})  
   
-Simulations: Magnifying Glass (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/simulations))
+Simulations: Magnifying Glass ({{% resource_link 68a2865a-1e86-bf15-ef8d-48651dbca36d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,9 +113,9 @@ Simulations: Magnifying Glass (![This resource may not render correctly in a scr
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Point Estimators and Point Estimation Methods ([PDF]({{< baseurl >}}/resources/l8))  
+Point Estimators and Point Estimation Methods ({{% resource_link 19b70f89-bdf2-53f6-1d45-8ec5ac01429b "PDF" %}})  
   
-An Overview ([PDF]({{< baseurl >}}/resources/l8review))
+An Overview ({{% resource_link df99a17c-6717-2a8b-23a0-c459eec0b3fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,9 +124,9 @@ An Overview ([PDF]({{< baseurl >}}/resources/l8review))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Interval Estimation and Confidence Intervals ([PDF]({{< baseurl >}}/resources/l9))  
+Interval Estimation and Confidence Intervals ({{% resource_link ba442e12-92b7-8870-1817-5c354d031ba7 "PDF" %}})  
   
-t-Student versus Standard Normal: A Graphical View ([PDF]({{< baseurl >}}/resources/l9graphs))  
+t-Student versus Standard Normal: A Graphical View ({{% resource_link d70cfa2f-f389-559f-e4b8-24babe132b8e "PDF" %}})  
   
 [The t-Distribution versus the Normal Distribution](http://www.econtools.com/jevons/java/Graphics2D/tDist.html) (Java Applet)
 {{< tdclose >}}
@@ -136,9 +137,9 @@ t-Student versus Standard Normal: A Graphical View ([PDF]({{< baseurl >}}/resour
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Hypothesis Testing ([PDF]({{< baseurl >}}/resources/l10))  
+Hypothesis Testing ({{% resource_link b8a7ff51-2421-e62d-7297-d251992ff5f7 "PDF" %}})  
   
-An Applied Review ([PDF]({{< baseurl >}}/resources/l10review))
+An Applied Review ({{% resource_link 61890ab3-8902-5dd4-bbcf-bafe50af664f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/451f48a032ca78da726834ee700c67c4_ps6sol.pdf
+file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/451f48a032ca78da726834ee700c67c4_ps6sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
