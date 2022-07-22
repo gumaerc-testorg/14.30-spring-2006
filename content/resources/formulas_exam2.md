@@ -6,6 +6,7 @@ file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: formulas_exam2.pdf
 uid: 53848da0-e169-18b4-c485-feccf71f4c63
 ---
 This file includes formula sheet for exam 2, probabilities for the standard normal distribution and chi square distribution table.
-

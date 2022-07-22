@@ -5,6 +5,7 @@ file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1sol.pdf
 uid: 9949ee12-2441-b579-2b10-0402a4bb2ea2
 ---
 This file contains solutions of the problem set for week 1.
-

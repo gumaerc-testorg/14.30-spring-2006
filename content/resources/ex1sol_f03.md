@@ -6,6 +6,7 @@ file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ex1sol_f03.pdf
 uid: 151274f9-054c-ed4c-ebfb-50c677022ae6
 ---
 This resource contains solutions of the statistics exam 1 for the semester, fall 2003.
-

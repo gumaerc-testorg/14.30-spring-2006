@@ -5,6 +5,7 @@ file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps9sol.pdf
 uid: 53b5dde2-6987-b54c-b835-3491aa43f6b4
 ---
 This resource contains solutions of the problem set for week 9.
-

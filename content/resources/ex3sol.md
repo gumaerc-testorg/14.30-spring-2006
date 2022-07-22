@@ -5,6 +5,7 @@ file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ex3sol.pdf
 uid: f9dbae0e-36e1-f8d8-c82f-67034da7b7dd
 ---
 This file includes answers for the questions of exam 3.
-

@@ -6,6 +6,7 @@ file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l9graphs.pdf
 uid: d70cfa2f-f389-559f-e4b8-24babe132b8e
 ---
 This file contains graphs showing probability relationship between t- students.
-
