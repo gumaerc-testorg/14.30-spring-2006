@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes required text and a calendar that incudes assigned
+  readings from the three main texts used in the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9ead9033-3251-b486-4ace-761a56a81806
 ---
@@ -18,7 +23,7 @@ Recommended Texts
 
 \[DS\]: DeGroot, Morris H., and Mark J. Schervish. _Probability and Statistics_. 3rd ed. Boston, MA: Addison-Wesley, 2002.
 
-Larsen and Marx's book is a bit more chatty than Ross', while DeGroot and Schervish's is a very good book but somewhat more difficult. You can find additional resources in the [related resources]({{< baseurl >}}/pages/related-resources) section.
+Larsen and Marx's book is a bit more chatty than Ross', while DeGroot and Schervish's is a very good book but somewhat more difficult. You can find additional resources in the {{% resource_link 403b3ab4-de66-42af-d120-c9def9fce8e5 "related resources" %}} section.
 
 Assigned Readings
 -----------------
