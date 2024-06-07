@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains set of problems for week 5.
 file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/b10a9db60b9ef063c1dbc0cf5a6918fe_ps5.pdf
+file_size: 76036
 file_type: application/pdf
 learning_resource_types:
 - Assignments
