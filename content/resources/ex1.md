@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/d9b415426c5ed6133d807a04baeea374_ex1.pdf
+file_size: 95231
 file_type: application/pdf
 learning_resource_types:
 - Exams
