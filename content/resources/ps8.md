@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains set of problems for week 8.
-file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/4f224aa70054f72358cea307ef463013_ps8.pdf
+file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/4f224aa70054f72358cea307ef463013_ps8.pdf
 file_size: 51648
 file_type: application/pdf
 learning_resource_types:
