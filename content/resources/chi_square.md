@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/af89646d6c1e099d4cd7b00fbcff0475_chi_square.pdf
+file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/af89646d6c1e099d4cd7b00fbcff0475_chi_square.pdf
 file_size: 50597
 file_type: application/pdf
 learning_resource_types:
