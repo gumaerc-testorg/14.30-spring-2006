@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes formula sheet for exam 3 and the distribution tables.
-file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/8e50e4717ba483e87143a11c26dd69dc_formulas_exam3.pdf
+file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/8e50e4717ba483e87143a11c26dd69dc_formulas_exam3.pdf
 file_size: 415926
 file_type: application/pdf
 learning_resource_types:

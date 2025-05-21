@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions of the problem set for week 7.
-file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/32367049bbb8482ae95a1379247980b3_ps7sol.pdf
+file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/32367049bbb8482ae95a1379247980b3_ps7sol.pdf
 file_size: 95187
 file_type: application/pdf
 learning_resource_types:
