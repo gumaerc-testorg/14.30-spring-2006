@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains graphs on Poisson distributions based on different
   variables.
-file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/f4698ae1bf1c6c00c4ea91e09363147d_special_dist.pdf
+file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/f4698ae1bf1c6c00c4ea91e09363147d_special_dist.pdf
 file_size: 137591
 file_type: application/pdf
 learning_resource_types:

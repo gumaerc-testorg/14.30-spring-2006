@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains set of problems for week 2.
-file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/7999e6572ddd74ef34194458504c693f_ps2.pdf
+file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/7999e6572ddd74ef34194458504c693f_ps2.pdf
 file_size: 60543
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/b6d0b432baf78523421fb06f51dfe52f_z_table.pdf
+file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/b6d0b432baf78523421fb06f51dfe52f_z_table.pdf
 file_size: 27751
 file_type: application/pdf
 learning_resource_types:

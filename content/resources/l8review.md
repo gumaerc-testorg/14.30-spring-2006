@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains an overview about point estimation.
-file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/df99a17c67172a8b23a0c459eec0b3fb_l8review.pdf
+file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/df99a17c67172a8b23a0c459eec0b3fb_l8review.pdf
 file_size: 44793
 file_type: application/pdf
 learning_resource_types:
