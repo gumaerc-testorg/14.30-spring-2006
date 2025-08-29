@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions of the statistics exam 1 for the semester,
   fall 2003.
-file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/151274f9054ced4cebfb50c677022ae6_ex1sol_f03.pdf
+file: /ol-ocw-studio-app/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/151274f9054ced4cebfb50c677022ae6_ex1sol_f03.pdf
 file_size: 87832
 file_type: application/pdf
 learning_resource_types:
