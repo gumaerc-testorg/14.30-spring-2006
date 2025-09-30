@@ -19,7 +19,7 @@ Recitations: 1 session / week, 1 hour / session
 
 ## Course Objective and Prerequisites
 
-To provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed in the further study of econometrics and provide basic preparation for [_14.32 Econometrics_](https://ocw.mit.edu/courses/economics/14-32-econometrics-spring-2007/index.htm). No prior preparation in probability and statistics is required, but familiarity with basic algebra and calculus is assumed.
+To provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed in the further study of econometrics and provide basic preparation for {{% resource_link "fed4839f-b2a9-470a-ae4c-adc69a17ed58" "_14.32 Econometrics_" %}}. No prior preparation in probability and statistics is required, but familiarity with basic algebra and calculus is assumed.
 
 ## Grading and Requirements
 
